@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Env files (any folder)
+*.env
+**/.env
+
+# Node
+node_modules/
+
+# Builds / cache
+dist/
+build/

@@ -4,3 +4,6 @@ django-cors-headers
 djangorestframework-simplejwt
 PyJWT
 python-dotenv
+dj_database_url
+python-decouple
+psycopg2
